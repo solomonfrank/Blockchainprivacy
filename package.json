@@ -1,0 +1,17 @@
+{
+  "name": "blockchainPrivacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hashing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "js-sha256": "^0.9.0",
+    "merkletreejs": "^0.2.27"
+  }
+}
